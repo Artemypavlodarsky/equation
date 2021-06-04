@@ -4,7 +4,7 @@ public class Square {
 	
 // square equation solution.	
 	
-	public void Calc( int a, int b, int c ) {
+	public void _calc( double a, double b, double c ) {
 		double x1;
 		double x2;
 		double discr;
